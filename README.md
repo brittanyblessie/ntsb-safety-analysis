@@ -7,6 +7,12 @@ Exploratory analysis of US civil aviation accident and fatality trends using the
 - Top 10 accident types by phase of flight
 - Fatalities by year
 
+- ## Helicopter Analysis
+Exploration of helicopter accident trends using NTSB data as context 
+for understanding risk in emerging eVTOL operations. Covers accident 
+types, phases of flight, and year over year trends from 1982 to 2024.
+
+
 ## Tools used
 - Python
 - Pandas
@@ -17,7 +23,3 @@ Exploratory analysis of US civil aviation accident and fatality trends using the
 NTSB Aviation Accident Database
 https://www.ntsb.gov/safety/data/Pages/Data_Stats.aspx
 
-## Helicopter Analysis
-Exploration of helicopter accident trends using NTSB data as context 
-for understanding risk in emerging eVTOL operations. Covers accident 
-types, phases of flight, and year over year trends from 1982 to 2024.

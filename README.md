@@ -31,3 +31,7 @@ This project was built to apply data science skills to aviation safety
 data. The helicopter analysis looks at historical rotorcraft accident 
 patterns as a reference point for understanding the safety challenges 
 facing new categories of electric aircraft.
+
+![US aviation accidents by year](accidents_by_year.png)
+
+> Personal project using public NTSB data. Not affiliated with any employer.
